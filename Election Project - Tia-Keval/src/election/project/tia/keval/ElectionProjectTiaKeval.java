@@ -7,6 +7,13 @@ import java.util.ArrayList;
  * @author Tia - [] / Keval - [21440808]
  * 
  * Election Project
+ *
+ * NOTES:
+ *      Basic Welcome added
+ *      Input implemented, loop included
+ *      Automatically adds input to array
+ *      ability to stop program added
+ *      ---- You can delete line 48 if you need, only needed for testing. ----
  */
 public class ElectionProjectTiaKeval {
 
